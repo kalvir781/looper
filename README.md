@@ -11,6 +11,11 @@ Kalvir Sandhu
 - No drywet, want all one levels
 - modified the color for record to be green and play to be blue
 
+## Design and thinking for future changes
+Icebox for concepts to investigate and implement in the future as I make music with it.
+- Rotate the knob to record a different track? Would have to stitch together the track buffers to play out.
+- Adding reverb to the mix of the recorded track? Effects similiar to the Boss Looper.
+
 ## Description
 Loops incoming audio at a user defined interval.  
 
